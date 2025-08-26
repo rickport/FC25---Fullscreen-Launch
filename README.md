@@ -1,7 +1,7 @@
 # FC25---Fullscreen-Launch
 I'm not a proggramer, I just made the IA work for me.
 
-This project provides a fully automated and seamless launch experience for EA SPORTS FC 25 on PC (launched via Steam). The goal is to completely hide all disruptive splash screens (EA Desktop, EA Anti-Cheat) and the game's own loading transitions, presenting the user with the final, fullscreen game window only when it is 100% ready to be played.
+This project provides a fully automated and seamless launch experience for EA SPORTS FC 25 on PC (launched via Steam Big Picture Mode). The goal is to completely hide all disruptive splash screens (EA Desktop, EA Anti-Cheat) and the game's own loading transitions, presenting the user with the final, fullscreen game window only when it is 100% ready to be played.
 
 The entire process is initiated by simply clicking "Play" in Steam, providing a clean, console-like experience (loaded with only 100mb of RAM)
 
